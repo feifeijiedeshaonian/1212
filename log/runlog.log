@@ -1,0 +1,94 @@
+2019-06-14 10:30:52,953 desired_caps.py[line:35] INFO start app...
+2019-06-14 10:31:36,407 desired_caps.py[line:35] INFO start app...
+2019-06-14 10:32:12,312 desired_caps.py[line:35] INFO start app...
+2019-06-14 10:33:06,022 zhixin_basics.py[line:54] INFO ======login zhixin======
+2019-06-14 10:38:02,654 desired_caps.py[line:35] INFO start app...
+2019-06-14 10:38:42,939 zhixin_basics.py[line:54] INFO ======login zhixin======
+2019-06-14 10:43:50,462 desired_caps.py[line:35] INFO start app...
+2019-06-14 10:44:29,860 zhixin_basics.py[line:24] INFO ======quanxian_setting======
+2019-06-14 10:44:31,801 zhixin_basics.py[line:27] INFO ======quanxian_cunzai======
+2019-06-14 10:44:31,917 zhixin_basics.py[line:24] INFO ======quanxian_setting======
+2019-06-14 10:44:35,273 zhixin_basics.py[line:27] INFO ======quanxian_cunzai======
+2019-06-14 10:44:35,445 zhixin_basics.py[line:24] INFO ======quanxian_setting======
+2019-06-14 10:44:37,836 zhixin_basics.py[line:27] INFO ======quanxian_cunzai======
+2019-06-14 10:44:37,959 zhixin_basics.py[line:24] INFO ======quanxian_setting======
+2019-06-14 10:44:40,132 zhixin_basics.py[line:27] INFO ======quanxian_cunzai======
+2019-06-14 10:44:40,268 zhixin_basics.py[line:31] INFO ======login zhixin======
+2019-06-20 11:32:52,288 myunit.py[line:25] INFO ======== setUpClass========
+2019-06-20 11:32:52,322 desired_caps.py[line:35] INFO start app...
+2019-06-20 11:40:16,488 desired_caps.py[line:35] INFO start app...
+2019-06-20 11:40:57,894 zhixin_basics.py[line:24] INFO ======quanxian_setting======
+2019-06-20 11:40:59,714 zhixin_basics.py[line:27] INFO ======quanxian_cunzai======
+2019-06-20 11:40:59,852 zhixin_basics.py[line:24] INFO ======quanxian_setting======
+2019-06-20 11:41:03,573 zhixin_basics.py[line:27] INFO ======quanxian_cunzai======
+2019-06-20 11:41:03,686 zhixin_basics.py[line:24] INFO ======quanxian_setting======
+2019-06-20 11:41:05,878 zhixin_basics.py[line:27] INFO ======quanxian_cunzai======
+2019-06-20 11:41:06,462 zhixin_basics.py[line:24] INFO ======quanxian_setting======
+2019-06-20 11:41:08,663 zhixin_basics.py[line:27] INFO ======quanxian_cunzai======
+2019-06-20 11:41:08,807 zhixin_basics.py[line:31] INFO ======login zhixin======
+2019-06-20 11:47:04,621 desired_caps.py[line:35] INFO start app...
+2019-06-20 11:47:56,621 zhixin_basics.py[line:24] INFO ======quanxian_setting======
+2019-06-20 11:48:06,811 zhixin_basics.py[line:31] INFO ======login zhixin======
+2019-06-20 11:53:37,090 desired_caps.py[line:35] INFO start app...
+2019-06-20 11:54:28,610 zhixin_basics.py[line:24] INFO ======quanxian_setting======
+2019-06-20 11:54:38,711 zhixin_basics.py[line:31] INFO ======login zhixin======
+2019-06-20 11:56:35,478 desired_caps.py[line:35] INFO start app...
+2019-06-20 11:57:26,102 zhixin_basics.py[line:24] INFO ======quanxian_setting======
+2019-06-20 11:57:36,367 zhixin_basics.py[line:31] INFO ======login zhixin======
+2019-06-20 12:17:10,866 myunit.py[line:25] INFO ======== setUpClass========
+2019-06-20 12:17:10,869 desired_caps.py[line:35] INFO start app...
+2019-06-20 12:17:52,265 zhixin_basics.py[line:75] INFO ========login out========
+2019-06-20 12:46:36,808 myunit.py[line:25] INFO ======== setUpClass========
+2019-06-20 12:46:36,811 desired_caps.py[line:35] INFO start app...
+2019-06-20 12:47:21,144 zhixin_basics.py[line:75] INFO ========login out========
+2019-06-20 13:01:49,812 desired_caps.py[line:35] INFO start app...
+2019-06-20 13:02:39,340 zhixin_basics.py[line:75] INFO ========login out========
+2019-06-20 13:05:10,930 desired_caps.py[line:35] INFO start app...
+2019-06-20 13:05:56,165 zhixin_basics.py[line:75] INFO ========login out========
+2019-06-20 13:07:09,715 desired_caps.py[line:35] INFO start app...
+2019-06-20 13:08:02,058 zhixin_basics.py[line:54] INFO ======login zhixin======
+2019-06-20 13:08:05,344 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:08:25,706 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:09:09,619 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:09:51,569 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:10:04,307 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:10:35,401 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:11:23,162 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:12:12,942 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:13:02,441 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:13:50,270 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:14:30,299 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:16:58,366 desired_caps.py[line:35] INFO start app...
+2019-06-20 13:17:52,447 zhixin_basics.py[line:54] INFO ======login zhixin======
+2019-06-20 13:17:55,410 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:18:17,861 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:18:53,440 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:19:35,232 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:19:37,481 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:19:39,718 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:19:41,917 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:19:44,132 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:19:46,352 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:19:48,594 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:19:50,839 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:25:27,281 desired_caps.py[line:35] INFO start app...
+2019-06-20 13:26:14,683 zhixin_basics.py[line:75] INFO ========login out========
+2019-06-20 13:26:34,179 zhixin_basics.py[line:54] INFO ======login zhixin======
+2019-06-20 13:26:37,385 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:26:56,412 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:27:24,947 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:28:00,370 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:42:57,411 desired_caps.py[line:35] INFO start app...
+2019-06-20 13:43:38,069 zhixin_basics.py[line:75] INFO ========login out========
+2019-06-20 13:43:58,357 zhixin_basics.py[line:54] INFO ======login zhixin======
+2019-06-20 13:44:02,236 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:44:20,854 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:45:01,081 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:45:46,074 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:46:01,316 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:46:36,698 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:47:27,142 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:48:22,695 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:49:06,059 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:49:43,292 zhixin_basics.py[line:62] INFO ========initialize========
+2019-06-20 13:50:24,476 zhixin_basics.py[line:62] INFO ========initialize========

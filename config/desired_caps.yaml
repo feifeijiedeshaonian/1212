@@ -1,0 +1,22 @@
+platformName: Android
+# deviceName: xuniji
+# udid: 127.0.0.1:62001
+# platformVersion: 5.1.1
+deviceName: Honor 9 Lite
+platformVersion: 8.0.0
+udid: MKJNW18313006941
+# deviceName: OPPO R11s
+# platformVersion: 7.1.1
+# udid: b27ddcc5
+# deviceName: Meizu S6
+# platformVersion: 7.0
+# udid: 71BQACSGHWK78
+appname: zhixin_Beta.apk
+appPackage: com.cnmts.smart_message
+appActivity: com.cnmts.smart_message.activity.SplashActivity
+noReset: True
+# noReset: False
+ip: 127.0.0.1
+port: 4723
+unicodeKeyboard: True
+resetKeyboard: True
